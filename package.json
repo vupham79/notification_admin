@@ -1,0 +1,14 @@
+{
+  "name": "notificationadmin",
+  "version": "1.0.0",
+  "description": "Admin for notification app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^8.0.0"
+  }
+}
